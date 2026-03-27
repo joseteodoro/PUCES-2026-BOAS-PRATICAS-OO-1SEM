@@ -97,11 +97,3 @@ DRY => dont repeat yourself
 YAGNI => you arent gonna need it (evita overengineering)
 Isole o que mude;
 
-=====
-
-SOLID
-- SRP (um artefato tem apenas um motivo para mudar)
-- OCP
-- LSP
-- ISP
-- DIP
