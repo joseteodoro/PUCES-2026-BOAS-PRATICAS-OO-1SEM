@@ -89,11 +89,4 @@ xxxx.save(usario);
 var x = BancoDeDados || Api
 x.save(usuario) // porque eles sao compativeis, porque codificou para a abstracao
 ```
-
-=====
-
-KISS => keep it simple
-DRY => dont repeat yourself
-YAGNI => you arent gonna need it (evita overengineering)
-Isole o que mude;
-
+s
